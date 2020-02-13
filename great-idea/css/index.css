@@ -231,3 +231,21 @@ address{
 .contact{
     line-height: 2;
 }
+
+/* services css starts here */
+.top-section {
+    display: flex;
+    flex-direction: column;
+}
+
+.services-header-img {
+    
+}
+
+.mid-section {
+    display: flex;
+}
+
+.bottom-section {
+    display: flex;
+}
